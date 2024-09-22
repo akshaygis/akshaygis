@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **akshaykumar06@gmail.com**
 
-- 📄 Know about my experiences: My Resume
+- 📄 Know about my experiences: **https://drive.google.com/file/d/1pw9If7IDO6InLvcSMhAEA7rUbTO6vIsv/view?usp=sharing**
 
 - ⚡ Fun fact: **I'm a sci-fi geek**
 
