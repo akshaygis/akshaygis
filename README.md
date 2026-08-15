@@ -18,7 +18,7 @@
 - ⚙️ Built and maintained **170+ Selenium automation scenarios**, cutting regression effort by **~70%**
 - 🤖 Exploring **AI-assisted QA** — using Claude AI & Microsoft Copilot for test analysis, SQL generation, and troubleshooting; built an AI-powered knowledge base assistant for my team
 - 💬 Ask me about **Java · Selenium WebDriver · Maven · TestNG · Cucumber · Apache POI · SQL · Manual Testing**
-- 📄 Know about my experience: [**View Resume**](https://drive.google.com/file/d/1pw9If7IDO6InLvcSMhAEA7rUbTO6vIsv/view?usp=sharing)
+- 📄 Know about my experience: [**View Resume**](https://drive.google.com/file/d/1uTmWSG4HdQbStRr-lA6xwuOe9u6yFSDO/view?usp=sharing)
 - ⚡ Fun fact: **I'm a sci-fi geek**
 
 <br clear="right"/>
